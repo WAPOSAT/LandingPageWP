@@ -22,6 +22,8 @@
     <!-- Navigation -->
     <?php include_once("../include/navbar.default.php"); ?>
     
+    <!-- editar los archivos ne las carpetas -->
+    
     <!-- Header o slyder -->
     <?php include_once("index/header.php"); ?>
 
