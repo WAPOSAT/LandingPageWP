@@ -1,4 +1,12 @@
 <!-- Navigation -->
+<style>
+    #logo {
+      margin-top: -5px;
+      margin-right: -10px;
+      height: 150%;
+    }
+</style>
+
 <nav class="navbar navbar-inverse navbar-static-top" role="navigation" style="margin:0px">
     <div class="container">
         <div class="navbar-header">
@@ -7,7 +15,8 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="index.php">WAPOSAT</a>
+                <a class="navbar-brand" href="index.php"><img id="logo" src="../img/logos/Gota_Waposat_117x147.png" ></a>
+                <a class="navbar-brand" href="index.php">WAPOSAT</a>
         </div>
 
         <div class="collapse navbar-collapse navbar-right" id="bs-WAPOSAT-navbar-collapse-1">

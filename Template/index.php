@@ -11,6 +11,7 @@
     
     <!-- Especific CSS -->
     <link href="index/style.index.css" rel="stylesheet">
+    <link href="../css/animate.css" rel="stylesheet">
     
     <!-- Especific JS -->
     <script src="index/index.js"></script>
