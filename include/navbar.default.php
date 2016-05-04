@@ -15,7 +15,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-                <a class="navbar-brand" href="index.php"><img id="logo" src="../img/logos/Gota_Waposat_117x147.png" ></a>
+                <a class="navbar-brand" href="index.php"><img id="logo" src="../img/logos/gota-waposat.png" ></a>
                 <a class="navbar-brand" href="index.php">WAPOSAT</a>
         </div>
 
