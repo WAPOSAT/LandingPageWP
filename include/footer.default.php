@@ -7,13 +7,7 @@
                 </h4>
                 <ul class="list-unstyled">
                     <!-- <li><i class="fa fa-phone fa-fw"></i> (51)-944271772</li> -->
-                    <li><i class="fa fa-envelope-o fa-fw"></i>jhosept@gmail.com
-                    </li>
-                </ul>
-                <br>
-                <ul class="list-inline">
-                    <li>
-                        <a href="https://www.facebook.com/waposat" target="_blank"><i class="fa fa-facebook fa-fw fa-3x"></i></a>
+                    <li><i class="fa fa-envelope-o fa-fw"></i>unidosporelagua@waposat.com
                     </li>
                 </ul>
                 <hr class="small">
