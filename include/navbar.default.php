@@ -25,7 +25,7 @@
                 <li><a href="index.php#AcercaDe">Acerca de</a></li>
                 <li><a href="#contact">Cont&aacute;ctanos</a></li>
                 <li class="dropdown">
-                    <a href="#" class="droptown-toggle" data-toggle="dropdown">Estaciones de Prueba<b class="caret"></b></a>
+                    <a href="#" class="droptown-toggle" data-toggle="dropdown">Estaciones Abiertas<b class="caret"></b></a>
                     <ul class="dropdown-menu">
                         <li><a href="EstamosTrabajando.php">E1-RioRimac</a></li>
                         <li class="divider"></li>
